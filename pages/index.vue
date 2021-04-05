@@ -39,8 +39,8 @@
     >
       <h3 class="text-secondary-500 text-7xl">Join the waitlist</h3>
       <form
+        netlify
         class="w-10/12 mt-10 md:mt-24 flex items-center justify-center"
-        action="submit.prevent"
       >
         <input
           class="w-full md:w-1/2 text-xl md:text-4xl border-gray-300 py-6 px-4 rounded-lg shadow-lg bg-form-background placeholder-form-placeholder text-form-placeholder focus:outline-none focus:border-secondary-500 focus:ring focus:ring-primary-500"
