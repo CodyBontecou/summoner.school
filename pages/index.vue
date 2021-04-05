@@ -43,7 +43,7 @@
         action="submit.prevent"
       >
         <input
-          class="w-full text-xl md:text-4xl border-gray-300 py-6 px-4 rounded-lg shadow-lg bg-form-background placeholder-form-placeholder text-form-placeholder focus:outline-none focus:border-secondary-500 focus:ring focus:ring-primary-500"
+          class="w-full md:w-1/2 text-xl md:text-4xl border-gray-300 py-6 px-4 rounded-lg shadow-lg bg-form-background placeholder-form-placeholder text-form-placeholder focus:outline-none focus:border-secondary-500 focus:ring focus:ring-primary-500"
           type="text"
           placeholder="Email address"
           required
