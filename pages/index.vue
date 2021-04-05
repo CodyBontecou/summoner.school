@@ -31,7 +31,7 @@
           class="mt-8 leading-10 md:leading-80px text-secondary-300 text-xl md:text-5xl md:w-3/4"
         >
           is being built to provide players with a hub to share, discuss, and
-          rate each others in-game replays.
+          rate each other's in-game replays.
         </p>
       </div>
     </div>
