@@ -11,7 +11,7 @@
       <blob-header class="z-0 absolute right-0 -top-64 md:-top-16" />
     </div>
     <div
-      class="p-4 md:p-12 rounded-lg bg-primary-200 relative z-10 mt-10 md:mt-18"
+      class="p-3 md:p-12 rounded-lg bg-primary-200 relative z-10 mt-10 md:mt-18"
     >
       <img
         src="summoner-school-preview.png"
