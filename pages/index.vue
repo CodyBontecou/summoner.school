@@ -6,7 +6,7 @@
     >
       <div class="flex flex-col">
         <h1 class="z-10">Optimize your gameplay</h1>
-        <div class="hidden md:block divider"></div>
+        <!-- <div class="hidden md:block divider"></div> -->
       </div>
       <blob-header class="z-0 absolute right-0 -top-64 md:-top-16" />
     </div>
@@ -28,14 +28,14 @@
           class="mt-8 leading-10 md:leading-80px text-secondary-300 text-xl md:text-5xl md:w-3/4"
         >
           is being built to provide players with a hub to share, discuss, and
-          rate each others ingame replays.
+          rate each others in-game replays.
         </p>
       </div>
     </div>
 
     <!-- Join the waitlist -->
     <div
-      class="md:mt-20 pb-24 text-center flex flex-col items-center justify-center"
+      class="mt-10 md:mt-20 pb-24 text-center flex flex-col items-center justify-center"
     >
       <h3 class="text-secondary-500 text-7xl">Join the waitlist</h3>
       <form
