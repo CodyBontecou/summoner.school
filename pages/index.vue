@@ -38,7 +38,7 @@
 
     <!-- Join the waitlist -->
     <div
-      class="mt-10 pb-10 md:mt-20 md:mb-24 text-center flex flex-col items-center justify-center"
+      class="mt-10 pb-10 md:mt-20 text-center flex flex-col items-center justify-center"
     >
       <h3 class="text-secondary-500 text-7xl">Join the waitlist</h3>
       <form
