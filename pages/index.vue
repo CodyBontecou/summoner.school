@@ -39,7 +39,9 @@
     >
       <h3 class="text-secondary-500 text-7xl">Join the waitlist</h3>
       <form
-        netlify
+        name="signup"
+        method="POST"
+        data-netlify="true"
         class="w-10/12 mt-10 md:mt-24 flex items-center justify-center"
       >
         <input type="hidden" name="form-name" value="signup" />
