@@ -10,11 +10,14 @@
       </div>
       <blob-header class="z-0 absolute right-0 -top-64 md:-top-16" />
     </div>
-    <img
-      class="relative z-10 mt-10 md:mt-18"
-      src="summoner-school-preview.png"
-      alt="Preview of what Summoner.school will look like within desktop browsers"
-    />
+    <div
+      class="p-4 md:p-12 rounded-lg bg-primary-200 relative z-10 mt-10 md:mt-18"
+    >
+      <img
+        src="summoner-school-preview.png"
+        alt="Preview of what Summoner.school will look like within desktop browsers"
+      />
+    </div>
     <!-- BLOB Description -->
     <div class="relative overflow-hidden">
       <blob-body class="hidden md:block md:-mt-96" />
