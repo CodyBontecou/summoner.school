@@ -25,7 +25,7 @@
         <h2
           class="text-secondary-500 text-7xl text-6xl sm:text-8xl md:text-9xl"
         >
-          Summoner school
+          Summoner School
         </h2>
         <p
           class="mt-8 leading-10 md:leading-80px text-secondary-300 text-xl md:text-5xl md:w-3/4"
@@ -38,7 +38,7 @@
 
     <!-- Join the waitlist -->
     <div
-      class="mt-10 md:mt-20 pb-24 text-center flex flex-col items-center justify-center"
+      class="mt-10 pb-10 md:mt-20 md:mb-24 text-center flex flex-col items-center justify-center"
     >
       <h3 class="text-secondary-500 text-7xl">Join the waitlist</h3>
       <form
