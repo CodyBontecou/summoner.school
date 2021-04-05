@@ -45,9 +45,12 @@
         class="w-10/12 mt-10 md:mt-24 flex items-center justify-center"
       >
         <input type="hidden" name="form-name" value="signup" />
+        <label for="email"> </label>
         <input
+          id="email"
           class="w-full md:w-1/2 text-xl md:text-4xl border-gray-300 py-6 px-4 rounded-lg shadow-lg bg-form-background placeholder-form-placeholder text-form-placeholder focus:outline-none focus:border-secondary-500 focus:ring focus:ring-primary-500"
-          type="text"
+          type="email"
+          name="email"
           placeholder="Email address"
           required
         />
