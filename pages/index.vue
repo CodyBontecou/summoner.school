@@ -17,7 +17,7 @@
     />
     <!-- BLOB Description -->
     <div class="relative overflow-hidden">
-      <blob-body class="hidden md:-mt-96" />
+      <blob-body class="hidden md:block md:-mt-96" />
       <div class="md:absolute top-0 z-10 p-10 md:p-28">
         <h2
           class="text-secondary-500 text-7xl text-6xl sm:text-8xl md:text-9xl"
