@@ -1,7 +1,7 @@
 # summoner.school
 
 I decided to take [The Learn Startup](http://theleanstartup.com/) approach to validating an app idea that I have.
-This code is currently being hosted on Netlify at [summonerschool.netlify.app](summonerschool.netlify.app).
+This code is currently being hosted on Netlify at [summonerschool.netlify.app](https://summonerschool.netlify.app).
 
 ## Build Setup
 
